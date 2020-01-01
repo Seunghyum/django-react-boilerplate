@@ -1,0 +1,10 @@
+{
+  "name": "django-with-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev:frontend": "cd frontend && yarn dev",
+    "build:frontend": "cd frontend && yarn build"
+  },
+  "license": "ISC"
+}
